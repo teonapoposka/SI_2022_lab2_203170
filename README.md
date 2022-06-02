@@ -2,7 +2,7 @@
 
 
 2. 
-3. ![CFG-SI](https://user-images.githubusercontent.com/101474964/171696572-ed34e1a3-ec38-478b-83d8-79bd95649dde.png)
+3.   ![CFG-SI](https://user-images.githubusercontent.com/101474964/171696572-ed34e1a3-ec38-478b-83d8-79bd95649dde.png)
  
 
 
